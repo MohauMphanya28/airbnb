@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Mohau Mphanya",
+      "email": "mphanyamohau28@gmail.com",
+      "phone": "1-770-736-8031"
+    },
+    {
+      "id": "2",
+      "name": "Ontisitse Mphanya",
+      "email": "mphanyaontisitse28@gmail.com",
+      "phone": "010-629-6593 x09125"
+    }
+  ],
+  "bookings": [
+    {
+      "listingId": "1",
+      "startDate": "2022-02-20",
+      "endDate": "2022-02-21",
+      "userID": "1"
+    }
+  ],
+  "listings": [
+    {
+      "id": "1",
+      "bath-num": 3,
+      "bed-num": 4,
+      "zip": 23456,
+      "address": "Shomolu Street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": 2000,
+      "sq-fit": 4.2,
+      "email": "mphanyamohau28@gmail.com",
+      "userID": 2
+    }
+  ]
+}
